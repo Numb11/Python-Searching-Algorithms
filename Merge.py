@@ -28,4 +28,5 @@ def mergesort (array):
          array[k] = right[j]
          j = j + 1
          k = k + 1
+        
  return array
